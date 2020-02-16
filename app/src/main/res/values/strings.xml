@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+
+    //Error Message
+    <string name="r_email">Please enter your email</string>
+    <string name="r_password">Please enter password</string>
+    <string name="r_password_lenght">Password must be at least 6 character</string>
+    <string name="r_email_confirm">Incorrect email format</string>
+    <string name="r_user_name">Please enter your name</string>
+    <string name="r_title">Please enter title</string>
+    <string name="r_date">Please enter Date</string>
+    <string name="r_description">Please enter description</string>
+    <string name="r_support">Sorry this Feather is not Allowed in this Version</string>
+    <string name="r_login">Incorrect email address and / or password</string>
+
+    //language
+    <string name="arabic">عربي</string>
+    <string name="english">English</string>
+
+    //Alert Login
+    <string name="M_title">Login</string>
+    <string name="showlogin">You are not logged in,Please login!</string>
+    <string name="M_go">Yes</string>
+    <string name="M_no">No</string>
+
+    // Sign in
+    <string name="sign_in">Sign in</string>
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="new_user">New User ?</string>
+    <string name="create_new_account">Create new Account</string>
+
+    // Sign Up
+    <string name="register_new_user">Register new user</string>
+    <string name="sign_up">Sign Up</string>
+
+    //Home
+    <string name="app_name2">App Name</string>
+    <string name="search">Search</string>
+    <string name="tasks">Tasks</string>
+    <string name="notes">Notes</string>
+    <string name="priority">Priority</string>
+    <string name="no_tasks">you don\'t have any tasks</string>
+    <string name="no_notes">you don\'t have any notes</string>
+    <string name="add_new_task">Add new Task</string>
+    <string name="add_new_note">Add new Note</string>
+
+    // New Add
+    <string name="add_new">Add New</string>
+    <string name="note">Note</string>
+    <string name="task">Task</string>
+    <string name="cancel">Cancel</string>
+
+    //Add Task
+    <string name="new_task">New Task</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+
+    //priorityList
+    <string name="none">None</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+
+    // Add Note
+    <string name="new_note">New Note</string>
+    <string name="text">Text</string>
+
+
+</resources>

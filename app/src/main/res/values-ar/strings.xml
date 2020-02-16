@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidTest</string>
+
+    //Error Message
+    <string name="r_email">برجاء إدخال البريد الإلكتروني</string>
+    <string name="r_password">برجاء ادخال كلمة المرور</string>
+    <string name="r_password_lenght">كلمة المرور يجب ان تكون علي الاقل ٦ حروف</string>
+    <string name="r_email_confirm">قم بادخال بريد الكترونى صحيح</string>
+    <string name="r_user_name">قم بادخال أسم المستخدم </string>
+     <string name="r_title">برجاء إدخال العنوان</string>
+    <string name="r_date">برجاء إدخال التاريخ</string>
+    <string name="r_description">برجاء إدخال الوصف</string>
+    <string name="r_support">نأسف حيث ان هذه الخدمة غير متاحه في هذا الاصدار</string>
+    <string name="r_login">البريد الإلكتروني او كلمة المرور غير صحيح</string>
+    //language
+    <string name="arabic">عربي</string>
+    <string name="english">English</string>
+
+    //Alert Login
+    <string name="M_title">تسجيل الدخول</string>
+    <string name="showlogin">أنت غير مسجل برجاء تسجيل الدخول</string>
+    <string name="M_go">نعم</string>
+    <string name="M_no">لا</string>
+
+    // Sign in
+    <string name="sign_in">تسجيل الدخول</string>
+    <string name="user_name">اسم المستخدم</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">دخول</string>
+    <string name="new_user">مستخدم جديد؟</string>
+    <string name="create_new_account">إنشئ حساب جديد</string>
+
+    // Sign Up
+    <string name="register_new_user">تسجيل مستخدم جديد</string>
+    <string name="sign_up">تسجيل الدخول</string>
+
+
+    //Home
+    <string name="app_name2">اسم التطبيق</string>
+    <string name="search">بحث</string>
+    <string name="tasks">مهام</string>
+    <string name="notes">ملاحظات</string>
+    <string name="priority">الأهمية</string>
+    <string name="no_tasks">لا توجد لديك أي مهام</string>
+    <string name="no_notes">لا توجد لديك أي ملاحطات</string>
+    <string name="add_new_task">إضافة مهمة جديدة</string>
+    <string name="add_new_note">إضافة ملحوظة جديدة</string>
+
+    // New Add
+    <string name="add_new">إضافة جديدة</string>
+    <string name="note">ملاحظة</string>
+    <string name="task">مهمة</string>
+    <string name="cancel">إلغاء</string>
+
+    //Add Task
+    <string name="new_task">مهمة جديدة</string>
+    <string name="title">العنوان</string>
+    <string name="date">التاريخ</string>
+    <string name="description">الوصف</string>
+    <string name="add">إضافة</string>
+    <string name="edit">تعديل</string>
+
+    //priorityList
+    <string name="none">غير هام</string>
+    <string name="low">منخفض الأهمية</string>
+    <string name="medium">متوسط الأهمية</string>
+    <string name="high">هام جدا</string>
+    // Add Note
+    <string name="new_note">ملاحظة جديدة</string>
+    <string name="text">النص</string>
+
+
+</resources>

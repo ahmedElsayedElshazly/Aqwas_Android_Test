@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.balsikandar.android:crashreporter:1.0.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/500e4dc181b1db692cd36e467eabbeb1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/500e4dc181b1db692cd36e467eabbeb1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.balsikandar.android/crashreporter/1.0.9/1088f2921619ec513e988cb1c96380b1cefb1dcb/crashreporter-1.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
